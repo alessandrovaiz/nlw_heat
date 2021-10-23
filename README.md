@@ -4,6 +4,8 @@
 <h3 align="center">
 	NLW: Next Level Week ( Nodejs + TypeScript + Prisma ORM + Socket.io + React)
 </h3>
+
+---
 ## 💻 Sobre o projeto
 
 É uma aplicação que permite você se autenticar com o GitHub e utilizar um chat.
@@ -19,13 +21,15 @@ Projeto desenvolvido durante a **Next Level Week Heat** oferecida pela [Rocketse
 ## 🎨 Layout
 ### Web
 
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center; margin-top: 10px;">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/assets/img_web_02.png" width="500px">
+</p>
+
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/assets/img_web_01.png" width="500px">
 </p>
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center; margin-top: 10px;">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./.github/assets/img_web_02.png" width="500px">
-</p>
+
 
 ---
 
@@ -82,16 +86,17 @@ $ yarn dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### ( Nodejs + TypeScript + Prisma ORM + Socket.io + React)
+#### ( Nodejs + TypeScript + Prisma ORM + Socket.io + React )
 <br>
 
 ---
 
 ## 🦸 Autor
-
+<a href="https://github.com/alessandrovaiz">
  <img style="border-radius: 50%;" src="https://github.com/alessandrovaiz.png" width="100px;" alt=""/>
  <br />
  <sub><b>Alessandro Vaiz</b></sub>
+</a>
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-AlessandroVaiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandrovaiz/)](https://www.linkedin.com/in/alessandrovaiz/)
